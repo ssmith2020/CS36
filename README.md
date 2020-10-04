@@ -1,1 +1,1 @@
-# CS36 hello this is my projects for comp sci class CS36
+# CS36 hello this is my repository for CS36 Fall 2020
