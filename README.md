@@ -1,1 +1,1 @@
-# CS36
+# CS36 hello this is my projects for comp sci class CS36
